@@ -1,0 +1,9 @@
+name: astrbot_plugin_gzctf_bot
+display_name: GZCTF Bot
+desc: GZCTF 赛事查询、管理与公告播报插件
+author: Florance
+version: 1.0.0
+repo: https://github.com/FloranceYeh/astrbot_plugin_gzctf_bot
+tags:
+  - gzctf
+  - ctf

@@ -1,0 +1,39 @@
+{
+  "gzctf_url": {
+    "description": "GZCTF 面板地址",
+    "type": "string",
+    "default": ""
+  },
+  "gz_user": {
+    "description": "GZCTF 管理员用户名",
+    "type": "string",
+    "default": ""
+  },
+  "gz_pass": {
+    "description": "GZCTF 管理员密码",
+    "type": "string",
+    "default": ""
+  },
+  "send_list": {
+    "description": "默认播报群号列表",
+    "type": "array",
+    "items": { "type": "string" },
+    "default": []
+  },
+  "game_list": {
+    "description": "监听的赛事名称，留空表示全部赛事",
+    "type": "array",
+    "items": { "type": "string" },
+    "default": []
+  },
+  "poll_interval": {
+    "description": "公告/作弊轮询间隔（秒）",
+    "type": "int",
+    "default": 20
+  },
+  "verify_ssl": {
+    "description": "是否校验 HTTPS 证书",
+    "type": "bool",
+    "default": true
+  }
+}
