@@ -16,14 +16,12 @@
   },
   "send_list": {
     "description": "默认播报群号列表",
-    "type": "array",
-    "items": { "type": "string" },
+    "type": "list",
     "default": []
   },
   "game_list": {
     "description": "监听的赛事名称，留空表示全部赛事",
-    "type": "array",
-    "items": { "type": "string" },
+    "type": "list",
     "default": []
   },
   "poll_interval": {
