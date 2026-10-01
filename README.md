@@ -96,3 +96,7 @@
 ## 鸣谢
 
 感谢 [MoRan23](https://github.com/MoRan23) 的 [GZCTF-BOT-QQ](https://github.com/MoRan23/GZCTF-BOT-QQ) 项目，本插件的开发借鉴了该项目的许多设计和实现思路。
+
+## 许可证
+
+本项目遵循上游 [GZCTF-BOT-QQ](https://github.com/MoRan23/GZCTF-BOT-QQ) 项目的 GNU Affero General Public License v3.0（AGPLv3）协议。完整协议文本见 [LICENSE](LICENSE)。
